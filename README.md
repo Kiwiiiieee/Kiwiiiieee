@@ -1,7 +1,5 @@
 # Kaoutar Ammara
 
-**Portfolio website:** [kiwiiiieee.github.io](https://kiwiiiieee.github.io)
-
 Aerospace engineer (B.Sc., Izmir University of Economics, 2026) working on space systems, mission analysis and aerospace engineering.
 
 My approach: define, model, analyse, validate, decide. I use analytical and numerical models to study aerospace systems, test them against reference data or physical constraints, and turn results into engineering decisions.
