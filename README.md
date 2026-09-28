@@ -1,12 +1,14 @@
 # Kaoutar Ammara
 
+**Portfolio website:** [kiwiiiieee.github.io](https://kiwiiiieee.github.io)
+
 Aerospace engineer (B.Sc., Izmir University of Economics, 2026) working on space systems, mission analysis and aerospace engineering.
 
 My approach: define, model, analyse, validate, decide. I use analytical and numerical models to study aerospace systems, test them against reference data or physical constraints, and turn results into engineering decisions.
 
 ## Selected repositories
 | Project | Area | Tools |
-|---|---|---|
+|:--|:--|:--|
 | [Relativistic navigation beyond Earth](https://github.com/Kiwiiiieee/relativistic-navigation-beyond-earth) | Navigation, relativity | Wolfram Language |
 | [Orbit propagation and Kepler's equation](https://github.com/Kiwiiiieee/orbit-propagation-kepler) | Astrodynamics | Wolfram Language |
 | [Apollo LM ascent and engine sizing](https://github.com/Kiwiiiieee/apollo-lm-ascent-and-engine-sizing) | Propulsion, trajectory | Wolfram Language, NASA CEA |
